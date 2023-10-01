@@ -40,7 +40,7 @@ body {
 }
 
 .product img {
-    width: 100%;
+    width: 70%;
 }
 
 .product-content {
@@ -70,7 +70,7 @@ body {
 }
 
 .add-to-cart {
-    background: rgb(16, 8, 69);
+    background: rgb(240, 19, 49);
     width: 4rem;
     height: 4rem;
     display: flex;
